@@ -12,6 +12,7 @@ public class Main {
             String hex = Integer.toHexString(i);
             char ch = (char) i;
 
+            // print output using printf to keep same formatting as before
             System.out.printf("%d%15s%15s%15s%15c\n", i, binary, octal, hex, ch);
         }
     }
