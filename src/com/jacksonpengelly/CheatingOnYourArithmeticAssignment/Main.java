@@ -1,4 +1,4 @@
-package com.jacksonpengelly.CheatingonYourArithmeticAssignment;
+package com.jacksonpengelly.CheatingOnYourArithmeticAssignment;
 
 public class Main {
     public static void main(String[] args) {
